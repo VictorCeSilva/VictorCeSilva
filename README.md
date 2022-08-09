@@ -1,7 +1,8 @@
 ### Prazer, sou o Victor Costa 👋
 
-- 🔭 Estou trabalhando como Assitente de Infraestrutura de TI
-- 🌱 Estudando HTML5 e CSS
+- 🔭 Estagiário de Infraestrutura na D.Carvalho - John Deere
+- 🌱 Estudando HTML5 e CSS para ser um desenvolvedor Front-end
+- 🏹 Aberto para desafios
 
 <div align="center">
   <a href="https://github.com/VictorCeSilva">
