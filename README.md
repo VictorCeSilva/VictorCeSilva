@@ -1,6 +1,6 @@
 ### Prazer, sou o Victor Costa 👋
 
-- 🔭 Estagiário de Infraestrutura na D.Carvalho - John Deere
+- 🔭 Asistente de TI na D.Carvalho - John Deere
 - 🌱 Estudando HTML5 e CSS para ser um desenvolvedor Front-end
 - 🏹 Aberto para desafios
 
