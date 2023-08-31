@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Costa</h1>
-<h3 align="center">Sou estudante de Desenvolvimento Front-End</h3>
+<h3 align="center">Sou Desenvolvedor Front-End</h3>
 
 - 🌱 Estou estudando **JavaScript**
 
