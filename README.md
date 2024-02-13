@@ -14,8 +14,8 @@ As lingaugens usadas nos projetos baseiam-se em: **HTML, CSS, JavaScript e BootS
 <a href="https://discord.gg/hanksblood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hanksblood" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorcesilva&show_icons=true&locale=en" alt="victorcesilva" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcesilva&show_icons=true&locale=en&layout=compact" alt="victorcesilva" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorcesilva&show_icons=true&locale=pt-br" alt="victorcesilva" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcesilva&show_icons=true&locale=pt-br" alt="victorcesilva" />
 
 
 
